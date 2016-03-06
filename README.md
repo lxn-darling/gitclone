@@ -14,3 +14,4 @@ git branch 查看当前分支
 =======
 张建东
 >>>>>>> zhang
+this is a new test
